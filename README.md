@@ -24,3 +24,4 @@ Accepted programming languages: FLEX (combined with C/C++).
 * [Windows Subsystem Linux 2](https://learn.microsoft.com/en-us/windows/wsl/install) (WSL)
 * [Flex](https://askubuntu.com/questions/164293/how-to-install-flex): v.2.6.4
 * VS Code [Lex Extension](https://marketplace.visualstudio.com/items?itemName=luniclynx.lex) that I found really helpful.
+
