@@ -20,6 +20,10 @@ Accepted programming languages: FLEX (combined with C/C++).
  
  ~ ```a.out```
  
+ ![](https://github.com/vagman/compilers-class-2023/blob/main/output/example1.png)
+ 
+ ![](https://github.com/vagman/compilers-class-2023/blob/main/output/example2.png)
+ 
  ### Genral Info
 * [Windows Subsystem Linux 2](https://learn.microsoft.com/en-us/windows/wsl/install) (WSL)
 * [Flex](https://askubuntu.com/questions/164293/how-to-install-flex): v.2.6.4
